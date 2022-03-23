@@ -34,7 +34,7 @@ Seed the database
 
 Begin by running with `npm start`
 
-[`Heroku Deployed Application`](https://hivemind-554.herokuapp.com/)
+[`Heroku Deployed Application`](https://hivemind-442.herokuapp.com/)
 
 ## License
 
